@@ -1,0 +1,20 @@
+{
+  "name": "guessingGame-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "factory.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/My-Kairo/guessingGame-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/My-Kairo/guessingGame-test/issues"
+  },
+  "homepage": "https://github.com/My-Kairo/guessingGame-test#readme"
+}
